@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bdec36ba-8b2b-4f0b-92ea-94058b574e44" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://innovated.pe/rucc/WSConsultaRuc.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WSConsultaRuc.xsd" MetadataType="Schema" ID="4e78a5f0-828c-4dbd-b355-e4d65b2c3455" SourceId="1" SourceUrl="http://innovated.pe/rucc/WSConsultaRuc.svc?xsd=xsd1" />
+    <MetadataFile FileName="WSConsultaRuc.disco" MetadataType="Disco" ID="fbf4a3ed-bb0d-4478-9108-9b80b1a75df3" SourceId="1" SourceUrl="http://innovated.pe/rucc/WSConsultaRuc.svc?disco" />
+    <MetadataFile FileName="WsConsulta.wsdl" MetadataType="Wsdl" ID="f88524ec-c62c-4c2f-9676-fd6ca5eb427f" SourceId="1" SourceUrl="http://innovated.pe/rucc/WSConsultaRuc.svc?wsdl" />
+    <MetadataFile FileName="WSConsultaRuc1.xsd" MetadataType="Schema" ID="1c06bcba-622d-44a2-a582-4bb108b7d103" SourceId="1" SourceUrl="http://innovated.pe/rucc/WSConsultaRuc.svc?xsd=xsd0" />
+    <MetadataFile FileName="WSConsultaRuc2.xsd" MetadataType="Schema" ID="534c74f5-19cd-4200-93c6-ed5fc72110f4" SourceId="1" SourceUrl="http://innovated.pe/rucc/WSConsultaRuc.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

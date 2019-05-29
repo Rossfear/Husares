@@ -1,0 +1,346 @@
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe.config
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.Cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.csprojResolveAssemblyReference.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe.config
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.Cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe.config
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.Cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe.config
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.application
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.exe
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\bin\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.application
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.exe
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\1. San Agustin Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.Cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+\\Equipo-vega\proyectos desktop\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojResolveAssemblyReference.cache
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+D:\Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+E:\VEGA\Innovated\15.Taberna Golf\Backup\30-06-2018-Taberna\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+D:\Proyectos Innovated\15.Taberna Golf\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\28-07-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+D:\Proyectos Innovated\Software\RestauranTED\Backup\31-07-2018-RestauranTED-Pr\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+E:\VEGA\Innovated\Software TED\1. RestauranTED\Backup\02-08-2018-RestauranTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\03-08-2018-RestaurenTED\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+D:\Proyectos Innovated\Software\RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+A:\Innovated\Proyectos\05. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+A:\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+\\DESKTOP-UNSMGCM\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+\\192.168.0.6\Innovated\Proyectos\04. RestauranTED\Backup\Actual\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+A:\Innovated\Proyectos\04. RestauranTED\01. Proyecto\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+C:\Sebastian\PROYECTO\RestauranTED\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+C:\Sebastian\PROYECTO\RestauranTED\Proyectos\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.config
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.application
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.exe
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\bin\Debug\SwTeclado.pdb
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.application
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.exe
+D:\MIGUEL LIMA\OTROS PROYECTOS\08-03-2019\NewSoftware\SwTeclado\obj\Debug\SwTeclado.pdb
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\bin\Debug\SwTeclado.exe.config
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\bin\Debug\SwTeclado.exe.manifest
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\bin\Debug\SwTeclado.application
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\bin\Debug\SwTeclado.exe
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\bin\Debug\SwTeclado.pdb
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\obj\Debug\SwTeclado.csprojAssemblyReference.cache
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\obj\Debug\SwTeclado.frmTecladoO.resources
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\obj\Debug\SwTeclado.Properties.Resources.resources
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\obj\Debug\SwTeclado.csproj.GenerateResource.cache
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\obj\Debug\SwTeclado.csproj.CoreCompileInputs.cache
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\obj\Debug\SwTeclado.exe.manifest
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\obj\Debug\SwTeclado.application
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\obj\Debug\SwTeclado.exe
+E:\MIGUEL\PROYECTO\RESTAURANTE_TABERNA\SwTeclado\obj\Debug\SwTeclado.pdb

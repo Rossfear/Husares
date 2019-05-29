@@ -1,0 +1,604 @@
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\x64\liblept172.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\x64\libtesseract304.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\x86\liblept172.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\x86\libtesseract304.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\Tesseract.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\tessnet2_32.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\Tesseract.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csprojResolveAssemblyReference.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmCategoria.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmInsumos.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmSubCategoria.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAddIngredintes.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmArreglarCorrelativo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCalcularInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmCategoria.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAddCantidad.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmContraseña.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Listas.FrmListaEntrada.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Listas.FrmListaSalidas.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmBuscarDni.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmBuscarRuc.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmAbirAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCambiarPresentaciones.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCanjearComprobante.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCerrarAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCambiarPass.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmConexion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCuadreCaja.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmDelivery.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmDetalleCortesia.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDevolucionInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmIngredientesMantenimiento.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmFacturar.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmSalidaDineroC.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmSalidaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmCuadreAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRCuadreCaja.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmCuareInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmKardex.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaCompras.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaMovimientos.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaObservacionCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaObservaciones.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmListaEntradaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaSalidaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmLoginPrincipal.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmMensaje.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmMostrarPresentacion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmObservacion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmObservacionCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPresentacion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPresentaciones.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPrincipal.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReimprimir.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteObservacionesVenta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteVentaDiayMes.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteVentaxProducto.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmRepVentaPresentFlujo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmRuc.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimiento.FrmInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmEntradaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmTraslado.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmSolicitarPedido.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmSubcategoria.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmTalonario.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmTeclado.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmGestion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FrmLogin.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleKardex.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmStockAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProductosReg.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmTienda.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmUsuario.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmVentaDirecta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmWifi.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Frm_Caja.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Frm_Cerrar_Caja.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Frm_Pro.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.frmListaPedidos.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReporteAtencion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReporteCuadre.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReportePedidos.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReportePresentacion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRPresentacionSemanal.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRSalidaDinero.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmVentaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmVentasGenerales.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Principal.FrmPrincipalOfi.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Frm_deta_pedido.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csproj.GenerateResource.Cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csproj.CoreCompileInputs.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\23-04-2018-SanAgustinGolf\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.exe.config
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\x64\liblept172.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\x64\libtesseract304.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\x86\liblept172.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\x86\libtesseract304.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\Tesseract.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\tessnet2_32.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.exe.config
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\Tesseract.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csprojResolveAssemblyReference.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmCategoria.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmInsumos.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmSubCategoria.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAddIngredintes.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmArreglarCorrelativo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCalcularInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmCategoria.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAddCantidad.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmContraseña.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Listas.FrmListaEntrada.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Listas.FrmListaSalidas.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmBuscarDni.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmBuscarRuc.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmAbirAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCambiarPresentaciones.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCanjearComprobante.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCerrarAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCambiarPass.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmConexion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCuadreCaja.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmDelivery.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmDetalleCortesia.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDevolucionInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmIngredientesMantenimiento.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmFacturar.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmSalidaDineroC.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmSalidaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmCuadreAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRCuadreCaja.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmCuareInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmKardex.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaCompras.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaMovimientos.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaObservacionCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaObservaciones.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmListaEntradaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaSalidaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmLoginPrincipal.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmMensaje.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmMostrarPresentacion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmObservacion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmObservacionCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPresentacion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPresentaciones.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPrincipal.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReimprimir.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteObservacionesVenta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteVentaDiayMes.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteVentaxProducto.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmRepVentaPresentFlujo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmRuc.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimiento.FrmInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmEntradaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmTraslado.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmSolicitarPedido.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmSubcategoria.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmTalonario.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmTeclado.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmGestion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FrmLogin.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleKardex.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmStockAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProductosReg.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmTienda.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmUsuario.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmVentaDirecta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmWifi.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Frm_Caja.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Frm_Cerrar_Caja.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Frm_Pro.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.frmListaPedidos.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReporteAtencion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReporteCuadre.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReportePedidos.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReportePresentacion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRPresentacionSemanal.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRSalidaDinero.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmVentaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmVentasGenerales.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Principal.FrmPrincipalOfi.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Frm_deta_pedido.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csproj.GenerateResource.Cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csproj.CoreCompileInputs.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\Segundo Piso\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csprojResolveAssemblyReference.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmCategoria.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmLoginAdmin.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmSubCategoria.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Apariencia.FrmLoginVenta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Apariencia.FrmSeleccionEmpresa.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAddIngredintes.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCalcularInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAddCantidad.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmContraseña.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Listas.FrmListaEntrada.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Listas.FrmListaSalidas.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.ReporteVenta.FrmVentaCliente.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmBuscarDni.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmBuscarRuc.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmAbirAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCambiarPresentaciones.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCanjearComprobante.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCerrarAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCambiarPass.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmConexion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCuadreCaja.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmDetalleCortesia.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmIngredientesMantenimiento.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmFacturar.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmSalidaDineroC.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmSalidaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmCuadreAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRCuadreCaja.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmKardex.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaCompras.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaMovimientos.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaObservacionCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaObservaciones.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmListaEntradaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaSalidaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmMensaje.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmMostrarPresentacion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmObservacion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmObservacionCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPresentaciones.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPrincipal.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReimprimir.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteObservacionesVenta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteVentaDiayMes.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteVentaxProducto.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmRepVentaPresentFlujo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimiento.FrmInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmEntradaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmTraslado.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmSolicitarPedido.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmTeclado.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmStockAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAlmacen.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmUsuario.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmVentaDirecta.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Frm_Caja.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Frm_Pro.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.frmListaPedidos.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReporteAtencion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReporteCuadre.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReportePedidos.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReportePresentacion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRPresentacionSemanal.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRSalidaDinero.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmVentaInsumo.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmVentasGenerales.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Principal.FrmPrincipalOfi.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Frm_deta_pedido.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csproj.GenerateResource.Cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csproj.CoreCompileInputs.cache
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\x64\liblept172.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\x64\libtesseract304.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\x86\liblept172.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\x86\libtesseract304.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\InputKey.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\Tesseract.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\tessnet2_32.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.exe.config
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\Tesseract.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.manifest
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.application
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAddCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Compra.Mantenimiento.FrmTipoComprobante.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Compra.Mantenimiento.FrmTipoDocumento.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Compra.FrmCompas.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Compra.FrmSolicitarEliminacionC.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Compra_Reporte.FrmComprasEliminadas.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Compra_Reporte.FrmListaObservacionCompra.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimientos.Atributos.FrmMTipoSalida.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimientos.Atributos.FrmMUnidadMedida.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimientos.Atributos.FrmTipoEntrada.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.SeguridadReporte.FrmSalidaAnuladas.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Seguridad.FrmEntradasAnuladas.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmConfiguracion.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimientos.Atributos.FrmEspcificarLlevar.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\x64\liblept172.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\x64\libtesseract304.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\x86\liblept172.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\x86\libtesseract304.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.manifest
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.application
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.exe
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\Tesseract.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\tessnet2_32.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.pdb
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwTeclado.exe.config
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\Tesseract.xml
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csprojAssemblyReference.cache
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Compra_Reporte.FrmComprasEliminadas.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Compra_Reporte.FrmListaObservacionCompra.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmCategoria.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmLoginAdmin.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimientos.Atributos.FrmEspcificarLlevar.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimientos.Atributos.FrmMTipoSalida.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimientos.Atributos.FrmMUnidadMedida.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FormAdmin.FrmSubCategoria.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Apariencia.FrmLoginVenta.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Apariencia.FrmSeleccionEmpresa.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Compra.FrmCompas.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Compra.FrmSolicitarEliminacionC.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAddIngredintes.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCalcularInsumo.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAddCantidad.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmContraseña.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Listas.FrmListaEntrada.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Listas.FrmListaSalidas.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Compra.Mantenimiento.FrmTipoComprobante.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Compra.Mantenimiento.FrmTipoDocumento.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimientos.Atributos.FrmTipoEntrada.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.SeguridadReporte.FrmSalidaAnuladas.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.ReporteVenta.FrmVentaCliente.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Seguridad.FrmEntradasAnuladas.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmBuscarDni.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmBuscarRuc.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmAbirAlmacen.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCambiarPresentaciones.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCanjearComprobante.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCerrarAlmacen.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCambiarPass.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmConexion.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmCuadreCaja.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleCompra.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmDetalleCortesia.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmIngredientesMantenimiento.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmFacturar.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmSalidaDineroC.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmSalidaInsumo.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmCuadreAlmacen.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRCuadreCaja.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmKardex.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaCompras.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaInsumo.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaObservacionCompra.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaObservaciones.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmListaEntradaInsumo.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmListaSalidaInsumo.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmMensaje.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmMostrarPresentacion.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmObservacion.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmObservacionCompra.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPresentaciones.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPrincipal.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReimprimir.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteObservacionesVenta.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteVentaDiayMes.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReporteVentaxProducto.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmRepVentaPresentFlujo.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmConfiguracion.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Mantenimiento.FrmInsumo.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Operaciones.FrmEntradaInsumo.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmTraslado.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmSolicitarPedido.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmTeclado.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAddCompra.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmStockAlmacen.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAlmacen.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmUsuario.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmVentaDirecta.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Frm_Caja.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Frm_Pro.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.frmListaPedidos.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReporteAtencion.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReporteCuadre.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReportePedidos.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmReportePresentacion.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRPresentacionSemanal.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmRSalidaDinero.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmVentaInsumo.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Reportes.FrmVentasGenerales.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Principal.FrmPrincipalOfi.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Frm_deta_pedido.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csproj.GenerateResource.cache
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csproj.CoreCompileInputs.cache
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.manifest
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.application
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwAgustinBolivar.csproj.CopyComplete
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.VentaReporte.FrmRVentaContable.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Login.FrmRCompraContable.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Login.FrmRCompraContable.resources
+E:\TOÑO\INNOVATED\PROYECTOS DESKTOP\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.VentaReporte.FrmRVentaContable.resources
+E:\VEGA\Innovated\8. San Agustin Bolivar\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.Almacen.FrmAtenderPedido.resources
